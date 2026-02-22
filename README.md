@@ -83,7 +83,6 @@ The goal was to identify churn drivers, quantify revenue impact, and generate ac
 
 ### 🔹 Correlation Matrix
 ![Correlation Heatmap](images/correlation_heatmap.png)
-
 ---
 
 ## 📊 Power BI Executive Dashboard
