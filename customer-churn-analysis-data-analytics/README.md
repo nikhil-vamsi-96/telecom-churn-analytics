@@ -64,25 +64,25 @@ The goal was to identify churn drivers, quantify revenue impact, and generate ac
 ## 📈 Exploratory Data Analysis (Python Visualizations)
 
 ### 🔹 Customer Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution](./images/churn_distribution.png)
 
 ### 🔹 Churn by Contract Type
-![Churn by Contract](images/churn_by_contract.png)
+![Churn by Contract](./images/churn_by_contract.png)
 
 ### 🔹 Churn by Internet Service
-![Churn by Internet Service](images/churn_by_internet_service.png)
+![Churn by Internet Service](./images/churn_by_internet_service.png)
 
 ### 🔹 Monthly Charges vs Churn
-![Monthly Charges vs Churn](images/monthly_charges_vs_churn.png)
+![Monthly Charges vs Churn](./images/monthly_charges_vs_churn.png)
 
 ### 🔹 Tenure vs Churn
-![Tenure vs Churn](images/tenure_vs_churn.png)
+![Tenure vs Churn](./images/tenure_vs_churn.png)
 
 ### 🔹 CLTV vs Churn
-![CLTV vs Churn](images/cltv_vs_churn.png)
+![CLTV vs Churn](./images/cltv_vs_churn.png)
 
 ### 🔹 Correlation Matrix
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](./images/correlation_heatmap.png)
 
 ---
 
@@ -186,3 +186,4 @@ SQL | Python | Power BI | Data Analytics
 ---
 
 ⭐ If you found this project useful, feel free to star the repository!
+
